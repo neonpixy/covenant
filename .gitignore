@@ -1,0 +1,22 @@
+archive/
+docs/
+releases/
+manifesto/
+.gitignore
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code
+.claude/
+
+# Temporary files
+*.tmp
+*.bak
